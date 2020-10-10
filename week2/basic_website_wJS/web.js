@@ -4,7 +4,6 @@ nav.appendChild(linkText);
 nav.title = "Home";
 nav.href = "web.html";
 document.body.appendChild(nav);
-linkText.style.textAlign="center"
 
 var nav1 = document.createElement('a');
 var linkText = document.createTextNode("About");
