@@ -1,5 +1,5 @@
 for (var i = 0; i < 5; i++){
-    var newH2 = document.querySelector("h2")
+    var newH2 = document("h2")
     newH2.textContent = "Hello World"
     document.body.append(newH2)
     newH2.style.fontSize = "20px"
