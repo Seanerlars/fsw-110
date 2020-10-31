@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\week4\\dj_js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "events_workbook"
+	}
+}
